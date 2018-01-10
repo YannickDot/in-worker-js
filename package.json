@@ -1,6 +1,6 @@
 {
   "name": "in-worker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A primitive to run a function a web worker",
   "main": "dist/inWorker.js",
   "module": "src/index.js",
