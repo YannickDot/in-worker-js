@@ -5,7 +5,7 @@
   "main": "dist/inWorker.js",
   "module": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "build": "rollup --config rollup.config.js"
   },
   "repository": "yannickdot/in-worker",
