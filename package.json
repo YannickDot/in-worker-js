@@ -1,6 +1,6 @@
 {
   "name": "in-worker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A primitive to run a function a web worker",
   "main": "dist/inWorker.js",
   "module": "src/index.js",
@@ -9,8 +9,7 @@
     "build": "rollup --config rollup.config.js"
   },
   "repository": "yannickdot/in-worker",
-  "author":
-    "Yannick Spark <yannick.l.spark@gmail.com> (https://sparkyspace.com/)",
+  "author": "Yannick Spark <yannick.l.spark@gmail.com> (https://sparkyspace.com/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/YannickDot/in-worker/issues"
